@@ -6,4 +6,5 @@ def filler():
 
 def hello():
     """Prints a hello message"""
+    foo = " foo"
     print("Hello from bla.py" + foo)
